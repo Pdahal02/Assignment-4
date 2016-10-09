@@ -1,4 +1,4 @@
- public class Dice {
+public class Dice {
 			
 	private DiceValue value;
 	
